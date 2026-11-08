@@ -1,0 +1,6 @@
+{
+  "name": "Battery Guardian",
+  "description": "Aplikasi modern pemantau kesehatan baterai, smart charging alarm saat tidur, dan peringatan suara Text-to-Speech otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
